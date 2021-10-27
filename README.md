@@ -1,6 +1,6 @@
 # Digital-Systems_-_Microprocessor_Design_SystemVerilog
 
-![GitHub Logo](Screenshot_4.png)
+![GitHub Logo](Screenshot_5.png)
 
 <div id="top"></div>
 
