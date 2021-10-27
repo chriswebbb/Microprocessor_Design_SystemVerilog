@@ -1,0 +1,66 @@
+H:/d2/cpu4/3_4/sequencer.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/sequencer.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sequencer
+
+Top level modules:
+	sequencer
+
+} {} {}} H:/d2/cpu4/3_4/pc.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/pc.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} H:/d2/cpu4/3_4/ir.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/ir.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} H:/d2/cpu4/3_4/cpu3.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/cpu3.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} H:/d2/cpu4/3_4/sevenseg.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/sevenseg.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} H:/d2/cpu4/3_4/ram.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/ram.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} H:/d2/cpu4/3_4/inputMod.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/inputMod.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module inputMod
+
+Top level modules:
+	inputMod
+
+} {} {}} H:/d2/cpu4/3_4/opcodes.h {1 {sccom -work CPULAST -stats=none H:/d2/cpu4/3_4/opcodes.h
+
+} {} {}} H:/d2/cpu4/3_4/rom.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/rom.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} H:/d2/cpu4/3_4/alu.sv {1 {vlog -work CPULAST -vopt -sv -stats=none H:/d2/cpu4/3_4/alu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

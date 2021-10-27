@@ -1,0 +1,71 @@
+H:/d2/cpu4/3_4_3/rom.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/rom.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} H:/d2/cpu4/3_4_3/alu.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/alu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} H:/d2/cpu4/3_4_3/sequencer.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/sequencer.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sequencer
+
+Top level modules:
+	sequencer
+
+} {} {}} H:/d2/cpu4/3_4_3/pc.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/pc.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} H:/d2/cpu4/3_4_3/ir.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/ir.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} H:/d2/cpu4/3_4_3/cpu3.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/cpu3.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} H:/d2/cpu4/3_4_3/testcpu.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/testcpu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module TestCPU
+
+Top level modules:
+	TestCPU
+
+} {} {}} H:/d2/cpu4/3_4_3/sevenseg.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/sevenseg.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} H:/d2/cpu4/3_4_3/ram.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/ram.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} H:/d2/cpu4/3_4_3/inputMod.sv {1 {vlog -work CPU_4_3 -vopt -sv -stats=none H:/d2/cpu4/3_4_3/inputMod.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module inputMod
+
+Top level modules:
+	inputMod
+
+} {} {}}

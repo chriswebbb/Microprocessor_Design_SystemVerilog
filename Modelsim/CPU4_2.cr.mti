@@ -1,0 +1,70 @@
+H:/d2/cpu4/3_4_2/rom.sv {2 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/rom.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ROM
+** Warning: ** while parsing file included at H:/d2/cpu4/3_4_2/rom.sv(26)
+** at H:\d2\cpu4\3_4_2\opcodes.h(30): (vlog-2962) A non-IEEE 1800-2012-compliant identifier was used to define a macro: '@@'.
+
+Top level modules:
+	ROM
+
+} {} {}} H:/d2/cpu4/3_4_2/alu.sv {1 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/alu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} H:/d2/cpu4/3_4_2/sequencer.sv {2 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/sequencer.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sequencer
+** Warning: ** while parsing file included at H:/d2/cpu4/3_4_2/sequencer.sv(30)
+** at H:\d2\cpu4\3_4_2\opcodes.h(30): (vlog-2962) A non-IEEE 1800-2012-compliant identifier was used to define a macro: '@@'.
+
+Top level modules:
+	sequencer
+
+} {} {}} H:/d2/cpu4/3_4_2/pc.sv {1 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/pc.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} H:/d2/cpu4/3_4_2/ir.sv {1 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/ir.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} H:/d2/cpu4/3_4_2/cpu3.sv {1 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/cpu3.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} H:/d2/cpu4/3_4_2/testcpu.sv {2 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/testcpu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module TestCPU
+** Warning: ** while parsing file included at H:/d2/cpu4/3_4_2/testcpu.sv(30)
+** at H:\d2\cpu4\3_4_2\opcodes.h(30): (vlog-2962) A non-IEEE 1800-2012-compliant identifier was used to define a macro: '@@'.
+
+Top level modules:
+	TestCPU
+
+} {} {}} H:/d2/cpu4/3_4_2/sevenseg.sv {1 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/sevenseg.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} H:/d2/cpu4/3_4_2/inputMod.sv {1 {vlog -work CPU4_2 -vopt -sv -stats=none H:/d2/cpu4/3_4_2/inputMod.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module inputMod
+
+Top level modules:
+	inputMod
+
+} {} {}}

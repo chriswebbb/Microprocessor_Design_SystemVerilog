@@ -1,0 +1,66 @@
+H:/d2/cpu/d2/cpu/testcpu.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/testcpu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module TestCPU
+
+Top level modules:
+	TestCPU
+
+} {} {}} H:/d2/cpu/d2/cpu/sevenseg.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/sevenseg.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} H:/d2/cpu/d2/cpu/ram.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/ram.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} H:/d2/cpu/d2/cpu/cpu.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/cpu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} H:/d2/cpu/opcodes.h {1 {sccom -work CPU1 -stats=none H:/d2/cpu/opcodes.h
+
+} {} {}} H:/d2/cpu/d2/cpu/rom.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/rom.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} H:/d2/cpu/d2/cpu/alu.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/alu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} H:/d2/cpu/d2/cpu/sequencer.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/sequencer.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sequencer
+
+Top level modules:
+	sequencer
+
+} {} {}} H:/d2/cpu/d2/cpu/pc.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/pc.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} H:/d2/cpu/d2/cpu/ir.sv {1 {vlog -work CPU1 -vopt -sv -stats=none H:/d2/cpu/d2/cpu/ir.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}}

@@ -1,0 +1,64 @@
+H:/d2/cpu2/rom.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/rom.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} H:/d2/cpu2/cpu2.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/cpu2.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} H:/d2/cpu2/alu.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/alu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} H:/d2/cpu2/sequencer.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/sequencer.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sequencer
+
+Top level modules:
+	sequencer
+
+} {} {}} H:/d2/cpu2/pc.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/pc.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} H:/d2/cpu2/ir.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/ir.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} H:/d2/cpu2/testcpu.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/testcpu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module TestCPU
+
+Top level modules:
+	TestCPU
+
+} {} {}} H:/d2/cpu2/sevenseg.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/sevenseg.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} H:/d2/cpu2/cpu.sv {1 {vlog -work CPU2 -vopt -sv -stats=none H:/d2/cpu2/cpu.sv
+Model Technology ModelSim SE-64 vlog 10.6g Compiler 2019.08 Aug  3 2019
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}}
