@@ -1,24 +1,3 @@
-/////////////////////////////////////////////////////////////////////
-// Design unit: ALU
-//            :
-// File name  : alu.sv
-//            :
-// Description: ALU for basic processor
-//            :
-// Limitations: None
-//            : 
-// System     : SystemVerilog IEEE 1800-2005
-//            :
-// Author     : Mark Zwolinski
-//            : School of Electronics and Computer Science
-//            : University of Southampton
-//            : Southampton SO17 1BJ, UK
-//            : mz@ecs.soton.ac.uk
-//
-// Revision   : Version 1.0 05/08/08
-//            : Version 1.1 17/12/13
-/////////////////////////////////////////////////////////////////////
-
 module ALU #(parameter WORD_W = 8, OP_W = 3)
                    (input logic clock, n_reset, ACC_bus, load_ACC, ALU_ACC, ALU_add, ALU_sub,
                     inout wire [WORD_W-1:0] sysbus,
