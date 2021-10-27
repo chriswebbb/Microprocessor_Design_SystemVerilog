@@ -1,25 +1,3 @@
-/////////////////////////////////////////////////////////////////////
-// Design unit: CPU
-//            :
-// File name  : cpu.sv
-//            :
-// Description: Top level of basic processor
-//            :
-// Limitations: None
-//            : 
-// System     : SystemVerilog IEEE 1800-2005
-//            :
-// Author     : Mark Zwolinski
-//            : School of Electronics and Computer Science
-//            : University of Southampton
-//            : Southampton SO17 1BJ, UK
-//            : mz@ecs.soton.ac.uk
-//
-// Revision   : Version 1.0 05/08/08
-//            : Version 1.1 17/12/13
-//            : Version 1.2 11/12/14
-//            : Version 1.3 15/01/18
-/////////////////////////////////////////////////////////////////////
 module CPU #(parameter WORD_W = 8, OP_W = 3)
             (input logic clock, n_reset, input logic [WORD_W-1:0] sw,
             output logic [6:0] disp0, disp1, disp2, disp3);
