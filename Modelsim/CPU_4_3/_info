@@ -1,0 +1,261 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/d2/modelsim/cpu2
+vALU
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1579260739
+!i10b 1
+!s100 [PX7z14n;E8ac:IJ_;RF22
+I]j[^^DSF=L9Rzc8HMElUk2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_sv_unit
+S1
+R0
+w1579189055
+8H:/d2/cpu4/3_4_3/alu.sv
+FH:/d2/cpu4/3_4_3/alu.sv
+Z4 L0 22
+Z5 OL;L;10.6g;65
+r1
+!s85 0
+31
+Z6 !s108 1579260739.000000
+!s107 H:/d2/cpu4/3_4_3/alu.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/alu.sv|
+!i113 0
+Z7 o-work CPU_4_3 -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+n@a@l@u
+vCPU
+R1
+R2
+!i10b 1
+!s100 Y:5[?GYUTI6gNkXTf8Ab;1
+Id0k6?>hiH]`hVhOTIbN?M1
+R3
+!s105 cpu3_sv_unit
+S1
+R0
+w1579188505
+8H:/d2/cpu4/3_4_3/cpu3.sv
+FH:/d2/cpu4/3_4_3/cpu3.sv
+Z9 L0 23
+R5
+r1
+!s85 0
+31
+R6
+!s107 H:/d2/cpu4/3_4_3/cpu3.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/cpu3.sv|
+!i113 0
+R7
+R8
+n@c@p@u
+vinputMod
+R1
+Z10 !s110 1579260740
+!i10b 1
+!s100 VlkBK[IoSV3A]@D5T^@GH1
+IahO5Fcl`a@_Xb73d1`GGV2
+R3
+!s105 inputMod_sv_unit
+S1
+R0
+w1579178728
+8H:/d2/cpu4/3_4_3/inputMod.sv
+FH:/d2/cpu4/3_4_3/inputMod.sv
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 H:/d2/cpu4/3_4_3/inputMod.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/inputMod.sv|
+!i113 0
+R7
+R8
+ninput@mod
+vIR
+R1
+R10
+!i10b 1
+!s100 H24zmB<H_S7n4nANg]]MP2
+IoZlk6iGIRMM9CCdg1e5<62
+R3
+!s105 ir_sv_unit
+S1
+R0
+w1579131173
+8H:/d2/cpu4/3_4_3/ir.sv
+FH:/d2/cpu4/3_4_3/ir.sv
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1579260740.000000
+!s107 H:/d2/cpu4/3_4_3/ir.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/ir.sv|
+!i113 0
+R7
+R8
+n@i@r
+vPC
+R1
+R10
+!i10b 1
+!s100 iV]K4>^hYiD3OBOJA]JH[2
+IE9XkA9XQ`;aFWG7bU<EHf0
+R3
+!s105 pc_sv_unit
+S1
+R0
+w1387279077
+8H:/d2/cpu4/3_4_3/pc.sv
+FH:/d2/cpu4/3_4_3/pc.sv
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 H:/d2/cpu4/3_4_3/pc.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/pc.sv|
+!i113 0
+R7
+R8
+n@p@c
+vRAM
+R1
+Z12 !s110 1579260741
+!i10b 1
+!s100 <EHgV9k1Q9U^YAK_eC@7P2
+Ib@2A8c8ZHL4GM?gHCZWbA1
+R3
+!s105 ram_sv_unit
+S1
+R0
+w1579176688
+8H:/d2/cpu4/3_4_3/ram.sv
+FH:/d2/cpu4/3_4_3/ram.sv
+L0 29
+R5
+r1
+!s85 0
+31
+R11
+!s107 H:/d2/cpu4/3_4_3/ram.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/ram.sv|
+!i113 0
+R7
+R8
+n@r@a@m
+vROM
+R1
+R12
+!i10b 1
+!s100 ^3fj9B;MJA4`O1ENUkIi?2
+IOb>[6aNoJP[K3?3fO:O9n0
+R3
+!s105 rom_sv_unit
+S1
+R0
+w1579260726
+8H:/d2/cpu4/3_4_3/rom.sv
+FH:/d2/cpu4/3_4_3/rom.sv
+Z13 FH:\d2\cpu4\3_4_3\opcodes.h
+R4
+R5
+r1
+!s85 0
+31
+Z14 !s108 1579260741.000000
+!s107 H:\d2\cpu4\3_4_3\opcodes.h|H:/d2/cpu4/3_4_3/rom.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/rom.sv|
+!i113 0
+R7
+R8
+n@r@o@m
+vsequencer
+R1
+R12
+!i10b 1
+!s100 N>oTTiLUk1dj_hLOa?D_;0
+ITk[4`FH`9[cQdodjdlJjk3
+R3
+!s105 sequencer_sv_unit
+S1
+R0
+Z15 w1579192474
+8H:/d2/cpu4/3_4_3/sequencer.sv
+FH:/d2/cpu4/3_4_3/sequencer.sv
+R13
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 H:\d2\cpu4\3_4_3\opcodes.h|H:/d2/cpu4/3_4_3/sequencer.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/sequencer.sv|
+!i113 0
+R7
+R8
+vsevenseg
+R1
+Z16 !s110 1579260742
+!i10b 1
+!s100 SLh@<:O`30>zSo0dY_9GI2
+ICA?RFAO8=OiIIhP3M=aK>3
+R3
+!s105 sevenseg_sv_unit
+S1
+R0
+w1579129779
+8H:/d2/cpu4/3_4_3/sevenseg.sv
+FH:/d2/cpu4/3_4_3/sevenseg.sv
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 H:/d2/cpu4/3_4_3/sevenseg.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/sevenseg.sv|
+!i113 0
+R7
+R8
+vTestCPU
+R1
+R16
+!i10b 1
+!s100 1`UU5kXXJA>Ld<M7YSe1o1
+I5ao>f6Pg7b0?WRMWlR8DU3
+R3
+!s105 testcpu_sv_unit
+S1
+R0
+R15
+8H:/d2/cpu4/3_4_3/testcpu.sv
+FH:/d2/cpu4/3_4_3/testcpu.sv
+R13
+R4
+R5
+r1
+!s85 0
+31
+!s108 1579260742.000000
+!s107 H:\d2\cpu4\3_4_3\opcodes.h|H:/d2/cpu4/3_4_3/testcpu.sv|
+!s90 -reportprogress|300|-work|CPU_4_3|-vopt|-sv|-stats=none|H:/d2/cpu4/3_4_3/testcpu.sv|
+!i113 0
+R7
+R8
+n@test@c@p@u
