@@ -1,24 +1,3 @@
-/////////////////////////////////////////////////////////////////////
-// Design unit: sevenseg
-//            :
-// File name  : sevenseg.sv
-//            :
-// Description: Seven segment decoder described as ROM
-//            : Active Low outputs
-//            :
-// Limitations: None
-//            : 
-// System     : SystemVerilog IEEE 1800-2005
-//            :
-// Author     : Mark Zwolinski
-//            : School of Electronics and Computer Science
-//            : University of Southampton
-//            : Southampton SO17 1BJ, UK
-//            : mz@ecs.soton.ac.uk
-//
-// Revision   : Version 1.2 19/12/17
-/////////////////////////////////////////////////////////////////////
-
 module sevenseg(output logic [6:0] data, 
                 input logic [3:0] address);
 
