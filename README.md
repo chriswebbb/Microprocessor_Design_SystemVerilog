@@ -1,4 +1,4 @@
-# Digital-Systems_-_Microprocessor_Design_SystemVerilog
+# Microprocessor_Design_SystemVerilog
 
 ![GitHub Logo](Screenshot_5.png)
 
